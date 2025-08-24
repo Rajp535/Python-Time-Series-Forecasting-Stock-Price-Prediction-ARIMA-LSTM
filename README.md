@@ -37,11 +37,15 @@ pip install pandas numpy matplotlib seaborn yfinance statsmodels scikit-learn te
 
 ## 📊 Results
 
-ARIMA: Captures linear temporal dependencies. Works well for stationary series.
+### 🔹 ARIMA Model
+- **RMSE:** 26.26  
+- **MSE:** 689.57  
+- **MAPE:** 2.46%  
 
-LSTM: Learns non-linear and complex temporal patterns. Handles volatility better.
-
-Both models provide valuable insights into stock movement forecasting.
+### 🔹 LSTM Model
+- **RMSE:** 55.92  
+- **MSE:** 3127.17  
+- **MAPE:** 6.65%
 
 Example Output:
 
