@@ -26,6 +26,7 @@ It demonstrates a complete **time series forecasting workflow** including data c
 ## 📂 Repository Structure
 
 ├── Stock_Price_Forecasting_using_ARIMA_&_LSTM.ipynb # Main Jupyter/Colab notebook
+
 ├── README.md # Project documentation
 
 ## 🛠️ Installation & Requirements
